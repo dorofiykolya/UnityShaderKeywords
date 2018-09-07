@@ -4,4 +4,4 @@
 ## Shader.DisableKeyword(key);
 
 
-![preview](/preview.gif)
+![preview](/preview.png)
